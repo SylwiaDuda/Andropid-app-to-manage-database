@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Baza telefonów</string>
+    <string name="producentTV">Producent</string>
+    <string name="producentET"></string>
+    <string name="markaTV"></string>
+    <string name="modelTV">Model</string>
+    <string name="wersja_androidaTV">Wersja androida</string>
+    <string name="wwwTV">WWW</string>
+    <string name="buttonWWW">WWW</string>
+    <string name="buttonAnuluj">Anuluj</string>
+    <string name="buttonZapisz">Zapisz</string>
+    <string name="empty">Wprowadź wszystkie dane</string>
+    <string name="dodaj">DODAJ</string>
+    <string name="usun_telefon">USUŃ TELEFON</string>
+
+</resources>
